@@ -1,0 +1,34 @@
+ .navbar{
+    background-color: #d2eeff;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+ }
+ 
+ .navbar li {
+    list-style-type: none;
+    display: inline
+    
+}
+
+.navbar a {
+    font-size: 39px;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #000000
+    
+}
+.navbar a:hover{
+    background-color: rgb(255, 255, 255);
+    color:#bae8ff
+}
+.Welcome{
+    background-color: aliceblue;
+    color: black;
+    padding: 400px 400px;
+    text-align: center;
+    font-style:oblique;
+}
