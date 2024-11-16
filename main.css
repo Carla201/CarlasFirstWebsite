@@ -48,7 +48,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 .Welcome{
     background-color: #e4f1ff;
     color: black;
-    padding: 10% 5%;
+    padding: 6% 6%;
     text-align: center;
     
 }
@@ -66,7 +66,17 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
 
-equipment img
+.firstpicture img{
+    float: right;
+    width: 559px;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+
+.firstpicture{
+    padding-left: 5%;
+}
 
 .contenta p {
 font-size: 20px;
