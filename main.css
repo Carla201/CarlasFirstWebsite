@@ -82,3 +82,26 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: 20px;
 color: white;
 }
+
+.learningtherules{
+    padding-left: 5%;
+}
+
+.learningtherules img{
+float: right;
+width: 605px;
+padding-left: 5%;
+    padding-right: 5%;
+}
+
+.courtbasics{
+    padding-left: 5%;
+}
+
+.courtbasics img{
+float: right;
+width: 540px;
+padding-left: 5%;
+    padding-right: 5%;
+}
+
