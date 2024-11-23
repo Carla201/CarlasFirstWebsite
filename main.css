@@ -47,6 +47,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 .Welcome{
     background-color: #e4f1ff;
+   
     color: black;
     padding: 6% 6%;
     text-align: center;
@@ -103,5 +104,28 @@ float: right;
 width: 540px;
 padding-left: 5%;
     padding-right: 5%;
+}
+
+.basictechniques{
+    padding-left: 5%;
+}
+.basictechniques img{
+    float: right;
+width: 300px;
+padding-left: 5%;
+    padding-right: 5%;
+    
+}
+
+.conclusion{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+}
+
+.quote{
+    width: max-content;
+    padding-left: 20%;
+    padding-bottom: 3%;
 }
 
