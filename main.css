@@ -49,7 +49,8 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #e4f1ff;
    
     color: black;
-    padding: 6% 6%;
+    padding-top: 10%;
+    padding-bottom: 6%;
     text-align: center;
     
 }
@@ -85,13 +86,13 @@ color: white;
 }
 
 .learningtherules{
+    padding-right: 5%;
     padding-left: 5%;
 }
 
 .learningtherules img{
-float: right;
-width: 605px;
-padding-left: 5%;
+float: left;
+width: 625px;
     padding-right: 5%;
 }
 
@@ -107,10 +108,10 @@ padding-left: 5%;
 }
 
 .basictechniques{
-    padding-left: 5%;
+    padding-right: 5%;
 }
 .basictechniques img{
-    float: right;
+    float: left;
 width: 300px;
 padding-left: 5%;
     padding-right: 5%;
@@ -123,9 +124,24 @@ padding-left: 5%;
     padding-bottom: 2%;
 }
 
-.quote{
-    width: max-content;
+.quote img{
     padding-left: 20%;
-    padding-bottom: 3%;
-}
+    padding-right: 20%;
+    }
 
+    .name{
+        padding-top: 2%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .inspo{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .inspo video{
+        float: left;
+        padding-right: 4%;
+        padding-bottom: 3%;
+    }
